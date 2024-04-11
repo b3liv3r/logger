@@ -1,4 +1,4 @@
-module test
+module github.com/b3liv3r/logger
 
 go 1.19
 
